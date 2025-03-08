@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"discord.largeImageIdling": "Idling",
+		"discord.detailsIdling": "cracking into ur lappy",
+		"discord.detailsEditing": "Editing System32"
+	}
 }
